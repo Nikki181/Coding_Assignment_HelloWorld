@@ -1,0 +1,14 @@
+E:\Coding Assignment\HelloWorld-master\HelloWorld-master\HelloWorldInfrastructure\bin\Debug\Data\TodaysData.txt
+E:\Coding Assignment\HelloWorld-master\HelloWorld-master\HelloWorldInfrastructure\bin\Debug\HelloWorldInfrastructure.dll
+E:\Coding Assignment\HelloWorld-master\HelloWorld-master\HelloWorldInfrastructure\bin\Debug\HelloWorldInfrastructure.pdb
+E:\Coding Assignment\HelloWorld-master\HelloWorld-master\HelloWorldInfrastructure\bin\Debug\log4net.dll
+E:\Coding Assignment\HelloWorld-master\HelloWorld-master\HelloWorldInfrastructure\bin\Debug\Newtonsoft.Json.dll
+E:\Coding Assignment\HelloWorld-master\HelloWorld-master\HelloWorldInfrastructure\bin\Debug\System.Net.Http.Formatting.dll
+E:\Coding Assignment\HelloWorld-master\HelloWorld-master\HelloWorldInfrastructure\bin\Debug\System.Web.Http.dll
+E:\Coding Assignment\HelloWorld-master\HelloWorld-master\HelloWorldInfrastructure\bin\Debug\log4net.xml
+E:\Coding Assignment\HelloWorld-master\HelloWorld-master\HelloWorldInfrastructure\bin\Debug\Newtonsoft.Json.xml
+E:\Coding Assignment\HelloWorld-master\HelloWorld-master\HelloWorldInfrastructure\bin\Debug\System.Net.Http.Formatting.xml
+E:\Coding Assignment\HelloWorld-master\HelloWorld-master\HelloWorldInfrastructure\bin\Debug\System.Web.Http.xml
+E:\Coding Assignment\HelloWorld-master\HelloWorld-master\HelloWorldInfrastructure\obj\Debug\HelloWorldInfrastructure.csproj.CoreCompileInputs.cache
+E:\Coding Assignment\HelloWorld-master\HelloWorld-master\HelloWorldInfrastructure\obj\Debug\HelloWorldInfrastructure.dll
+E:\Coding Assignment\HelloWorld-master\HelloWorld-master\HelloWorldInfrastructure\obj\Debug\HelloWorldInfrastructure.pdb
